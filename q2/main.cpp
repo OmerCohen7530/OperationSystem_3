@@ -1,3 +1,12 @@
+/*
+
+We tested the different implementations
+We performed a time test to know which is more effective
+We have drawn an unequivocal conclusion that DEQUE is more effective 
+and therefore we will use it from now on in the rest of the exercise
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
